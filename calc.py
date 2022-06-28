@@ -7,7 +7,7 @@
 *Description : This is a hard code for 'My First Calculator' 
 *File Name : calc.py
 *File ID : 204204
-*Modified by : #your name#
+*Modified by : #your name
 """
 
 print('Welcome to this calculator   2.0')
